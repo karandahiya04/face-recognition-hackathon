@@ -21,17 +21,7 @@ The notebook implements an end-to-end face recognition workflow:
 - Training Accuracy: **93.6%**  
 - Test Accuracy: **92.9%**
 
-## Getting Started
-
-- Open the notebook `hackathon_face_rekog.ipynb` directly on GitHub or in Colab.  
-- The notebook expects:
-  - Dataset structured as `ES_FaceMatch_Dataset` with `train.csv`, `test.csv`, and `dataset_images/`.  
-  - A pretrained model file path provided via `PATH_TO_MODEL`.
-
-## Notes
-
-- Outputs are intentionally preserved in the notebook for reproducibility.  
-- Large datasets and generated artifacts are excluded via `.gitignore`.  
+ 
 
 ## License
 
