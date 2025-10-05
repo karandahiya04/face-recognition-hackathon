@@ -1,0 +1,5 @@
+*.ipynb text eol=lf
+*.ipynb linguist-language=Jupyter Notebook
+
+# Ensure line endings are consistent
+* text=auto eol=lf

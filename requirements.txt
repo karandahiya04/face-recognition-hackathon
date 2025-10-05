@@ -1,0 +1,9 @@
+torch
+torchvision
+facenet-pytorch
+numpy
+pandas
+scikit-image
+matplotlib
+pillow
+jupyter
